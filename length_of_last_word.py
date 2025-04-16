@@ -8,9 +8,6 @@ class Solution:
         length = len(words[-1])
         return length
         
-        
-
-
 
 solution = Solution()
 solution.lengthOfLastWord("   fly me   to   the moon  ")
